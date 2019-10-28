@@ -5,3 +5,4 @@ Tutorial: https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_g
 <br>
 PRs are welcome please raise issues before making major changes.
 
+games are amazing
